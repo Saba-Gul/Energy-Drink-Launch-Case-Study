@@ -16,6 +16,8 @@ CodeX, a German beverage company, aims to establish its presence in the Indian m
 - **Brand Penetration:** Assessed brand perception and identified target cities for market expansion.
 - **Purchase Behavior:** Analyzed preferred purchase locations and typical consumption situations.
 - **Product Development:** Explored areas for product enhancement based on consumer feedback.
+  
+![Sample Image](Images/prod dev.png)
 
 ## Recommendations
 - **Immediate Product Improvements:** Suggested incorporating reduced sugar content and natural ingredients.
