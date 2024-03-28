@@ -17,7 +17,7 @@ CodeX, a German beverage company, aims to establish its presence in the Indian m
 - **Purchase Behavior:** Analyzed preferred purchase locations and typical consumption situations.
 - **Product Development:** Explored areas for product enhancement based on consumer feedback.
   
-![P Pollution](Images/prod%20dev.png "Product Development Recommendations")
+![P Pollution](Images/consumer.png "Market Analysis")
 ## Recommendations
 - **Immediate Product Improvements:** Suggested incorporating reduced sugar content and natural ingredients.
 - **Ideal Product Pricing:** Recommended pricing the product within the 50-99 range to align with consumer expectations.
