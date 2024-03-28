@@ -18,7 +18,7 @@ CodeX, a German beverage company, aims to establish its presence in the Indian m
 - **Product Development:** Explored areas for product enhancement based on consumer feedback.
   
 ![Sample Image]([Images/prod dev.png](https://github.com/Saba-Gul/Energy-Drink-Launch-Case-Study/blob/main/Images/prod%20dev.png))
-
+![P Pollution](Images/prod%20dev.png "Product Development Recommendations")
 ## Recommendations
 - **Immediate Product Improvements:** Suggested incorporating reduced sugar content and natural ingredients.
 - **Ideal Product Pricing:** Recommended pricing the product within the 50-99 range to align with consumer expectations.
