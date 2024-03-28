@@ -17,7 +17,7 @@ CodeX, a German beverage company, aims to establish its presence in the Indian m
 - **Purchase Behavior:** Analyzed preferred purchase locations and typical consumption situations.
 - **Product Development:** Explored areas for product enhancement based on consumer feedback.
   
-![Sample Image](Images/prod dev.png)
+![Sample Image]([Images/prod dev.png](https://github.com/Saba-Gul/Energy-Drink-Launch-Case-Study/blob/main/Images/prod%20dev.png))
 
 ## Recommendations
 - **Immediate Product Improvements:** Suggested incorporating reduced sugar content and natural ingredients.
